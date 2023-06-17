@@ -44,7 +44,7 @@ session_start();
     </div>
     <!-- LOADING AREA  END ====== -->  
 
-	<div class="page-wraper">
+    <div class="page-wraper">
      
         <!-- HEADER START -->
         <?php include("include/navbar.php"); ?>
@@ -156,10 +156,16 @@ session_start();
                                                     
                                                         <div class="row">
                                                                 <div class="col-xl-12 col-lg-12 col-md-12">
-                                                                     <ul type="1">
-                                                                         <li>jlkn lk </li>
-                                                                         <li>oiuho</li>
-                                                                         <li>jkbjnjoklb</li>
+                                                                      <ul type="1">
+                                                                          <li>All citizens of India above the age of 14 years who are permanent residents of Assam are eligible to register their names in the Employment Exchange of the State of Assam.</li>
+                                                                         <li>The candidates are eligible for Registration in one Employment Exchange only in the state, where they are permanent residents within the jurisdiction of the District.</li>
+                                                                         <li>Applicants who are already employed and seeking better employment have to be registered only after production of a “No Objection Certificate” issued by the employer.</li>
+                                                                         <li>All text box with asterisk (*) symbol is mandatory to filled up.</li>
+                                                                         <li>Please scan all Educational Qualification (Pass Certificate & Mark sheets in chronological order from lowest level to highest level) into a single PDF and upload as one single PDF.</li>
+                                                                         <li>After successfully submission of application Employment Exchange Card (X 10) will be issued to his/her registered Email.</li>
+                                                                         <li>Every registrant shall renew his /her registration once in three (3) years in the due month as indicated on his/her Registration card.</li>
+                                                                         <li>Failure to renew the registration even after lapse of grace period (3 months), will lead to cancellation of registration and subsequent removal from Live Register maintained in the Employment Exchange.</li>
+                                                                         <li>No request for renewal of registration after the expiry of the due month and grace period shall be entertained under any circumstances.</li>
                                                                      </ul>
                                                                 </div>
                                                                 <div class="form-group mb-3">
@@ -177,9 +183,24 @@ session_start();
                                                     <div class="tab-pane fade" id="Employment">
                                                         <div class="row">
 
-                                                            <div class="col-xl-6 col-lg-6 col-md-12">
+                                                            <div class="col-xl-12 col-lg-6 col-md-12">
                                                                 <div class="form-group">
-                                                                   ksbcvdiksu
+                                                                   <ul type="1"> 
+                                                                       <li>Age Proof:- Birth Certificate/ HSLC Admit card/ School Certificate (Any one of these three documents)</li>
+                                                                       <li>Proof of Residency:-
+                                                                       </li>
+                                                                       <ul>
+                                                                           <li>
+                                                                           Applicants having AADHAAR Card with permanent address within the state of Assam will be allowed to Register Online without      visiting the Employment Exchange as per Office Memorandum issued vide no. SKE. 42/2021/32 Dated Dispur the 19th July 2021. (Only for verification of the state of ASSAM) </li>
+                                                                           <li>Passport/EPIC/Certified copy of Electoral Rolls/Land documents/Marriage Certificate/Electricity Bill/Driving License ( to be uploaded any one of these documents for permanent address of applicant )</li>
+                                                                       </ul>
+                                                                          <li>Educational Qualification Certificate:- Pass Certificate   (S) and Mark Sheet(S)</li>
+                                                                          <li>Caste Certificate in cases of SC/ST/OBC/MOBC applicants   </li>
+                                                                          <li>In case of P.W.D ( Persons With Disability) candidate –Disability certificate issued by competent authority.</li>
+                                                                          <li>Additional Qualification Certificate ( if any)</li>
+                                                                          <li>Experience Certificate ( If any)</li>
+                                                                          <li>Non- Creamy Layer Certificate.</li>
+                                                                   </ul>
                                                                 </div>
                                                             </div>
 
@@ -188,18 +209,25 @@ session_start();
                                                     <div class="tab-pane fade" id="Education">
                                                         <div class="row">
 
-                                                            <div class="col-xl-6 col-lg-6 col-md-12">
+                                                            <div class="col-xl-12 col-lg-6 col-md-12">
                                                                 <div class="form-group">
-                                                                   iopyutuy
-                                                                </div>
-                                                            </div>
+                                                                   NOTICE:  It is for information to all concerned that following 3 (three ) nos. of Non AADHAAR based services under Skill, Employment & Entrepreneurship Department are applicable only for those candidates whose AADHAAR Cards have been kept on hold due to NRC related issues and for the sole purpose of applying in the Class III/ IV recruitment process. They will approach the concerned Employment Exchanges for manual verification of documents if eligible otherwise.
+                                                                    </div>
+                                                                    <ul type="1">
+                                                                        <li>
+                                                                       Registration of Employment Seeker in Employment Exchange.
+                                                                       </li>
+                                                                       <li>
+                                                                        Renewal of Registration Card of Employment Seeker in Employment Exchange.
+                                                                       </li>
+                                                                       <li>
+                                                                       Re-Registration of Employment Seeker in Employment Exchange.
+                                                                       </li>
+                                                                       </ul>
 
+                                                                       Rest of the applicants may apply AADHAAR based registration.
                                                         </div>
                                                     </div>
-
-
-
-
                                                     
                                                 </div>
                                             </div>  
@@ -226,7 +254,7 @@ session_start();
         <!-- FOOTER END -->
 
         <!-- BUTTON TOP START -->
-		<button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
+        <button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
 
         <!--Model Popup Section Start-->
         <!-- register -->
@@ -299,7 +327,7 @@ session_start();
            
             
 
- 	</div>
+    </div>
 
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
