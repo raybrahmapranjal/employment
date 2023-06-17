@@ -1,0 +1,21 @@
+       .job-categories-home-5 {
+ 
+  padding: 30px;
+  margin-bottom: 10px;
+}
+
+.job-categories-home-5:hover {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+    0 24px 46px var(--box-shadow-color);
+}
+
+.job-categories-home-5:hover .overlay {
+  transform: scale(4) translateZ(0);
+}
+
+.job-categories-home-5:active {
+  transform: scale(1) translateZ(0);
+  box-shadow: 0 15px 24px rgba(0,0,0,0.11),
+    0 15px 24px var(--box-shadow-color);
+}
